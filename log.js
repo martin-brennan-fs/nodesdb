@@ -50,7 +50,7 @@ sdb.select(params, function (error, data) {
 			}
 
 			// Bold the timestamp.
-			timestamp = ("[" + timestamp + "] ")
+			timestamp = ("[" + timestamp + "] ").bold
 
 			// Output the messages.
 			console.log(timestamp + status);

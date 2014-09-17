@@ -1,6 +1,6 @@
 {
   "name": "nodesdb",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A small node.js application to call SimpleDB",
   "main": "log.js",
   "scripts": {
@@ -13,8 +13,9 @@
   "author": "Martin Brennan",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.0.17",
-    "colors": "^0.6.2",
-    "underscore": "^1.7.0"
-  }
+    "aws-sdk": "2.0.17",
+    "colors": "0.6.2",
+    "underscore": "1.7.0"
+  },
+  "repository": "https://github.com/martin-brennan-fs/nodesdb"
 }
