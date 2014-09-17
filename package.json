@@ -1,0 +1,15 @@
+{
+  "name": "nodesdb",
+  "version": "0.0.0",
+  "description": "A small node.js application to call SimpleDB",
+  "main": "log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simpledb",
+    "aws"
+  ],
+  "author": "Martin Brennan",
+  "license": "ISC"
+}
